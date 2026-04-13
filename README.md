@@ -7,6 +7,7 @@ Computer Science student focused on **Data Analysis and Machine Learning** for r
 **Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 **Frameworks & Development**
@@ -18,6 +19,9 @@ Computer Science student focused on **Data Analysis and Machine Learning** for r
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Causal Inference](https://img.shields.io/badge/-Causal%20Inference-4B8BBE?style=flat)
+![Do-Calculus](https://img.shields.io/badge/-Do--Calculus-306998?style=flat)
+
 
 **Tools & Platforms**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
